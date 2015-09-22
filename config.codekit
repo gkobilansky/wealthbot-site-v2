@@ -1359,6 +1359,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/octocat.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21075,
+		"inputAbbreviatedPath": "\/images\/octocat.png",
+		"outputAbbreviatedPath": "\/images\/octocat.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/overlay-icon-01.png": {
 		"fileType": 32768,
 		"ignore": 0,
