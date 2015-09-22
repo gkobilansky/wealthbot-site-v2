@@ -105,13 +105,14 @@ made easy</em>. To get started you'll need to install both <a href="https://www.
           <div class="container">
                <h3>production install</h3>
                <a id="prod"></a>
-               <h4>Our tech: Linux | Apache | MySQL and MongoDB | PHP (Symfony 2)</h4>
+               <h4>Our tech: <a href="#linux">Linux</a> | <a href="#appache">Apache</a> | <a href="dbs">MySQL and MongoDB</a> | PHP (Symfony 2)</h4>
+               <a class="btn btn-primary btn-lg" href="/services.html"><i class="fa fa-life-ring"></i> Need Help?</a>
           </div>
      </section>
      <section class="prod_install">
           <div class="container">
-          <h3>Linux</h3>
           <a id="linux"></a>
+          <h3>Linux</h3>
 <p>We recommend using <a href="https://aws.amazon.com/">AWS</a> for you cloud hosting needs.  They are very robust, offer a multitude of services (besides just a basic web server) and overall when you need to scale your application to service thousands of clients, you won’t have to move wealthbot.io to a new hosting provider.</p>
 
 <p>Do NOT install wealthbot.io on a shared host or a cheap hosting provider. Wealthbot.io can probably work on such platforms, but you may run into issues with security and inability to configure certain apache or PHP modules.</p>
@@ -169,9 +170,8 @@ If you cloned your wealthbot.io installation into
 
 <p>You may also use <a href="http://nginx.org/en/">Nginx</a> as your server, the setup should be similar to the virtual host above. You need to ensure that webroot is pointed to the right directly and your nginx can serve PHP files and properly forward requests from app.php or app_dev.php
     </p>
+    <a id="dbs"></a>
     <h3>Databases (MySQL &amp; MongoDB)</h3>
-          <a id="dbs"></a>
-    
     <p>Setting up databases for webo is easy. The only thing you need to take care of is to make sure you have both databases installed. And you <strong>MUST</strong> install the <a href="https://github.com/mongodb/mongo-php-driver">php-mongo driver</a>.</p>
          <p>In most cases to install the MySQL DB is as easy as running the following commands:
 </p>

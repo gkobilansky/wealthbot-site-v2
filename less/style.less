@@ -535,7 +535,7 @@ section.call_to_action {
     }
 
 section.features_teasers_wrapper {
-    margin: 35px 0 45px 0;
+    margin: 35px 0 65px 0;
     .feature_teaser {
         text-align: center;
         h3 {
@@ -643,6 +643,7 @@ section.features_teasers_wrapper {
          
 
 section.clients_section {
+    margin: 40px 0 40px 0;
     .clients_list {
         text-align: center;
         a {
@@ -659,8 +660,51 @@ section.clients_section {
         }
     }   
 
- 
+ /* =Main, Video Banner 
 
+-------------------------------------------------------------- */
+
+.homepage-hero-module {
+    border-right: none;
+    border-left: none;
+    position: relative;
+}
+.no-video .video-container video,
+.touch .video-container video {
+    display: none;
+}
+.no-video .video-container .poster,
+.touch .video-container .poster {
+    display: block !important;
+}
+.video-container {
+    position: relative;
+    bottom: 0%;
+    left: 0%;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    background: #000;
+}
+.video-container .poster img {
+    width: 100%;
+    bottom: 0;
+    position: absolute;
+}
+.video-container .filter {
+    z-index: 100;
+    position: absolute;
+    background: rgba(0, 0, 0, 0.4);
+    width: 100%;
+}
+.video-container video {
+    position: absolute;
+    z-index: 0;
+    bottom: 0;
+}
+.video-container video.fillWidth {
+    width: 100%;
+}
                 
 /* =General Page elements
 -------------------------------------------------------------- */
@@ -1917,7 +1961,7 @@ section.call_to_action {
     }
 
 section.features_teasers_wrapper {
-    margin: 25px 0 45px 0;
+    margin: 25px 0 65px 0;
     .feature_teaser {
         h3 {
             font-size: 15px;

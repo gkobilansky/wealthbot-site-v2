@@ -655,17 +655,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/images\/1.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 67624,
-		"inputAbbreviatedPath": "\/images\/1.jpg",
-		"outputAbbreviatedPath": "\/images\/1.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/images\/1a.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -1880,7 +1869,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 32326,
+		"initialSize": 59250,
 		"inputAbbreviatedPath": "\/images\/serv_1.jpg",
 		"outputAbbreviatedPath": "\/images\/serv_1.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -2578,6 +2567,17 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/snap.svg-min.js",
 		"outputAbbreviatedPath": "\/js\/min\/snap.svg-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/video-banner.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/video-banner.js",
+		"outputAbbreviatedPath": "\/js\/min\/video-banner-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -4200,6 +4200,17 @@
 		"strictImports": 0,
 		"strictMath": 0,
 		"strictUnits": 0
+		},
+	"\/working-it\/Snapshots\/Working-it.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 227684,
+		"inputAbbreviatedPath": "\/working-it\/Snapshots\/Working-it.jpg",
+		"outputAbbreviatedPath": "\/working-it\/Snapshots\/Working-it.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		}
 	},
 "hooks": [
