@@ -1304,6 +1304,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/install.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 124441,
+		"inputAbbreviatedPath": "\/images\/install.jpg",
+		"outputAbbreviatedPath": "\/images\/install.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/less.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1993,6 +2004,17 @@
 		"initialSize": 193,
 		"inputAbbreviatedPath": "\/images\/slider-control-right.png",
 		"outputAbbreviatedPath": "\/images\/slider-control-right.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/solutions.jpeg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4.04689e+06,
+		"inputAbbreviatedPath": "\/images\/solutions.jpeg",
+		"outputAbbreviatedPath": "\/images\/solutions.jpeg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
