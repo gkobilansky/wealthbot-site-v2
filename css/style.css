@@ -8750,7 +8750,7 @@ blockquote p {
 .fa-4x {
   text-align: center;
 }
-.prod_install {
+.prod_install .container {
   max-width: 75%;
 }
 .portfolio_strict .portfolio_item figure {
