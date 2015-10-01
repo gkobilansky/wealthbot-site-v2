@@ -65,42 +65,70 @@
                               <strong></strong><br>
                               223 Bedford Ave, Suite 166<br>
                               Brooklyn, NY 11249<br>
-                              <abbr title="Phone">P:</abbr> (347) 915-3569</address>
+                              </address>
                               <address>
-                              <abbr title="Phone">E:</abbr> <a href="mailto:#">hi@wealthbot.io</a>
+                              <abbr title="Email">E:</abbr> <a href="mailto:hi@wealthbot.io">hi@wealthbot.io</a>
                               </address>
                          </div>
                     </div>
                     <div class="contact_form col-sm-8 col-md-8">
-                         <form name="contact_form" id="contact_form" method="post">
+                         <form name="contact_form" id="contact_form" role="form" method="post" action="http://formspree.io/hi@wealthbot.io">
                               <div class="row">
-                                   <div class="col-sm-6 col-md-6">
-                                        <label>Name</label>
-                                        <input name="name" id="name" class="form-control" type="text" value="">
-                                   </div>
-                                   <div class="col-sm-6 col-md-6">
-                                        <label>E-mail</label>
-                                        <input name="email" id="email" class="form-control" type="text" value="">
-                                   </div>
+                              <div class="col-sm-6 col-md-6">
+                              <div class="control-group">
+                                <label class="control-label" for="name">Your Name</label>
+                                <div class="controls">
+                                  <input type="text" class="form-control" name="name" id="name" placeholder="Your Name">
+                                </div>
                               </div>
-                              <div class="row">
+                              </div>
+                              <div class="col-sm-6 col-md-6">
+                              <div class="control-group">
+                                <label class="control-label" for="email">Your Email</label>
+                                <div class="controls">
+                                  <input type="email" class="form-control" name="_replyto" id="email" placeholder="you@awesome.com">
+                                  
+                                </div>
+                              </div>
+                             </div>
+                             </div>
+                             <div class="row">
                                    <div class="col-sm-12 col-md-12">
-                                        <label>Subject</label>
-                                        <input name="subject" id="subject" class="form-control" type="text">
-                                   </div>
+                              <div class="control-group">
+                                <label class="control-label" for="message">Your Question</label>
+                                <div class="controls">
+                                  <textarea rows="3" class="form-control" name="message" id="message" placeholder="Hi Webo, ... " ></textarea>
+                                </div>
                               </div>
-                              <div class="row">
-                                   <div class="col-sm-12 col-md-12">
-                                        <label>Message</label>
-                                        <textarea name="message" id="message" rows="8" class="form-control"></textarea>
-                                   </div>
-                                   <div class="col-sm-12 col-md-12"><br/>
-                                        <a id="submit_btn" class="btn btn-primary" name="submit">Submit Message</a> <span id="notice" class="alert alert-warning alert-dismissable hidden" style="margin-left:20px;"></span> </div>
+                                 </div>
+                             </div>
+                            <div class="row">
+                             <div class="col-sm-6 col-md-6">      
+                              <div class="control-group">
+                                <label for="human" class="control-label">Are you human or a worthy robot?</label>
+                                <div class="controls">
+                                  <input type="text" class="form-control" id="human" name="human" placeholder="2 + 3 = ?">
+                                  </div>
+                                 </div>
+                                </div>
+                             </div>  
+                                   <div class="row" style="margin-left:20px;">
+                              
+                            
+                              <div class="control-group">
+                                <div class="controls">
+                                  <label class="checkbox">
+                                    <input type="checkbox" name="newsletter" id="newsletter"> Sign me up for the wealthbot.io newsletter.
+                                  </label>
+                                    </div>
+                                      </div>
+                                    </div> 
+                                   
+                                  <input type="submit" id="submit" class="btn btn-primary" style="margin-left:20px;"></input>
+                                
                               </div>
-                         </form>
+                            </form>
                     </div>
-               </div>
-           </div>
       </section>
      <footer>
           <section class="twitter_feed_wrapper">
