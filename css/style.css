@@ -266,8 +266,8 @@ th {
 }
 @font-face {
   font-family: 'Glyphicons Halflings';
-  src: url('../twitter-bootstrap/fonts/glyphicons-halflings-regular.eot');
-  src: url('../twitter-bootstrap/fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../twitter-bootstrap/fonts/glyphicons-halflings-regular.woff2') format('woff2'), url('../twitter-bootstrap/fonts/glyphicons-halflings-regular.woff') format('woff'), url('../twitter-bootstrap/fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../twitter-bootstrap/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
+  src: url('../fonts/glyphicons-halflings-regular.eot');
+  src: url('../fonts/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'), url('../fonts/glyphicons-halflings-regular.woff2') format('woff2'), url('../fonts/glyphicons-halflings-regular.woff') format('woff'), url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'), url('../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
 }
 .glyphicon {
   position: relative;
@@ -7263,7 +7263,7 @@ section.parallax-window {
   text-align: center;
   background-color: #000;
   background-color: #222222;
-  background: url(images/backgrounds/wild_oliva_dark.png);
+  background: url(../images/backgrounds/wild_oliva_dark.png);
   color: #cccccc;
   padding: 40px;
   -webkit-transition: all 500ms linear;
@@ -8755,5 +8755,13 @@ blockquote p {
 }
 .portfolio_strict .portfolio_item figure {
   background-size: contain;
+}
+.logo_title {
+  font-family: Raleway;
+  color: #333333;
+  text-shadow: none;
+}
+.portfolio_strict .portfolio_item figure svg path {
+  fill-opacity: 0.7;
 }
 /*# sourceMappingURL=style.css.map */
