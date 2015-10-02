@@ -3909,6 +3909,17 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
+	"\/typing-numbers\/Snapshots\/Typing-numbers.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 69043,
+		"inputAbbreviatedPath": "\/typing-numbers\/Snapshots\/Typing-numbers.jpg",
+		"outputAbbreviatedPath": "\/typing-numbers\/Snapshots\/Typing-numbers.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/working-it\/Snapshots\/Working-it.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
