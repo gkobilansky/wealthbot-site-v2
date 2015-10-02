@@ -56,59 +56,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/documentation\/images\/documentation.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 169682,
-		"inputAbbreviatedPath": "\/documentation\/images\/documentation.jpg",
-		"outputAbbreviatedPath": "\/documentation\/images\/documentation.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/documentation\/images\/flexslider.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 338634,
-		"inputAbbreviatedPath": "\/documentation\/images\/flexslider.jpg",
-		"outputAbbreviatedPath": "\/documentation\/images\/flexslider.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/documentation\/images\/fullpagephoto.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 306270,
-		"inputAbbreviatedPath": "\/documentation\/images\/fullpagephoto.jpg",
-		"outputAbbreviatedPath": "\/documentation\/images\/fullpagephoto.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/documentation\/images\/HTML.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1.44786e+06,
-		"inputAbbreviatedPath": "\/documentation\/images\/HTML.jpg",
-		"outputAbbreviatedPath": "\/documentation\/images\/HTML.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/documentation\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/documentation\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/features.html": {
 		"fileType": 8192,
 		"ignore": 0,

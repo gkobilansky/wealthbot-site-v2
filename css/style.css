@@ -8767,4 +8767,10 @@ blockquote p {
 .service_teaser.inverted .service_details {
   padding: 0 40px;
 }
+.pricing_plan .the_price {
+  font-size: 35px;
+}
+.service_teaser .service_details li {
+  font-weight: 300;
+}
 /*# sourceMappingURL=style.css.map */
